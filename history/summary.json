@@ -76,9 +76,9 @@
     "url": "https://zam10115.zam.kfa-juelich.de",
     "icon": "https://icons.duckduckgo.com/ip3/zam10115.zam.kfa-juelich.de.ico",
     "slug": "dls-testing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 1132,
     "timeMonth": 1132,
     "timeYear": 1132,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-19": 0
+    }
   },
   {
     "name": "Datacatalogue - Validation",
