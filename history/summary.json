@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/zam10045.zam.kfa-juelich.de.ico",
     "slug": "unity-sso-provider",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "71.03%",
+    "uptimeDay": "22.59%",
+    "uptimeWeek": "71.03%",
+    "uptimeMonth": "71.03%",
+    "uptimeYear": "71.03%",
     "time": 733,
-    "timeDay": 849,
+    "timeDay": 0,
     "timeWeek": 733,
     "timeMonth": 733,
     "timeYear": 733,
     "dailyMinutesDown": {
-      "2023-10-19": 2
+      "2023-10-20": 8,
+      "2023-10-19": 1106
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/datacatalogue.eflows4hpc.eu.ico",
     "slug": "datacatalogue-production",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "71.12%",
+    "uptimeDay": "22.62%",
+    "uptimeWeek": "71.12%",
+    "uptimeMonth": "71.12%",
+    "uptimeYear": "71.12%",
     "time": 923,
-    "timeDay": 1144,
+    "timeDay": 0,
     "timeWeek": 923,
     "timeMonth": 923,
     "timeYear": 923,
     "dailyMinutesDown": {
-      "2023-10-19": 2
+      "2023-10-20": 8,
+      "2023-10-19": 1106
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/datalogistics.eflows4hpc.eu.ico",
     "slug": "dls-production",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "71.13%",
+    "uptimeDay": "22.66%",
+    "uptimeWeek": "71.13%",
+    "uptimeMonth": "71.13%",
+    "uptimeYear": "71.13%",
     "time": 1422,
-    "timeDay": 1647,
+    "timeDay": 0,
     "timeWeek": 1422,
     "timeMonth": 1422,
     "timeYear": 1422,
     "dailyMinutesDown": {
-      "2023-10-19": 1
+      "2023-10-20": 8,
+      "2023-10-19": 1105
     }
   },
   {
@@ -65,18 +68,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/zam10036.zam.kfa-juelich.de.ico",
     "slug": "datacatalogue-testing",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "71.14%",
+    "uptimeDay": "22.69%",
+    "uptimeWeek": "71.14%",
+    "uptimeMonth": "71.14%",
+    "uptimeYear": "71.14%",
     "time": 710,
-    "timeDay": 845,
+    "timeDay": 0,
     "timeWeek": 710,
     "timeMonth": 710,
     "timeYear": 710,
     "dailyMinutesDown": {
-      "2023-10-19": 1
+      "2023-10-20": 8,
+      "2023-10-19": 1105
     }
   },
   {
@@ -85,18 +89,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/zam10115.zam.kfa-juelich.de.ico",
     "slug": "dls-testing",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
+    "uptime": "70.96%",
+    "uptimeDay": "22.19%",
+    "uptimeWeek": "70.96%",
+    "uptimeMonth": "70.96%",
+    "uptimeYear": "70.96%",
     "time": 1132,
-    "timeDay": 1365,
+    "timeDay": 0,
     "timeWeek": 1132,
     "timeMonth": 1132,
     "timeYear": 1132,
     "dailyMinutesDown": {
-      "2023-10-19": 8
+      "2023-10-20": 8,
+      "2023-10-19": 1112
     }
   },
   {
@@ -110,11 +115,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 708,
-    "timeDay": 733,
-    "timeWeek": 708,
-    "timeMonth": 708,
-    "timeYear": 708,
+    "time": 678,
+    "timeDay": 561,
+    "timeWeek": 678,
+    "timeMonth": 678,
+    "timeYear": 678,
     "dailyMinutesDown": {}
   },
   {
@@ -128,11 +133,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 643,
-    "timeDay": 734,
-    "timeWeek": 643,
-    "timeMonth": 643,
-    "timeYear": 643,
+    "time": 607,
+    "timeDay": 461,
+    "timeWeek": 607,
+    "timeMonth": 607,
+    "timeYear": 607,
     "dailyMinutesDown": {}
   }
 ]
