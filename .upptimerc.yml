@@ -9,6 +9,8 @@ sites:
     url: https://datacatalogue.eflows4hpc.eu
   - name: DLS - Production
     url: https://datalogistics.eflows4hpc.eu
+  - name: Model Repository
+    url: https://modelrepository.eflows4hpc.eu
   - name: Datacatalogue - Testing
     url: https://zam10036.zam.kfa-juelich.de
   - name: DLS - Testing
