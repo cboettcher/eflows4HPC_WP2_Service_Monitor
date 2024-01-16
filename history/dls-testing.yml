@@ -1,7 +1,7 @@
 url: https://zam10115.zam.kfa-juelich.de
-status: up
-code: 200
-responseTime: 820
-lastUpdated: 2024-01-15T23:04:55.518Z
+status: down
+code: 500
+responseTime: 587
+lastUpdated: 2024-01-16T22:40:47.050Z
 startTime: 2023-10-17T07:50:46.851Z
 generator: Upptime <https://github.com/upptime/upptime>
