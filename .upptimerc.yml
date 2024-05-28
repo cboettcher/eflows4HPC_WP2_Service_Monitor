@@ -9,8 +9,6 @@ sites:
     url: https://datacatalogue.eflows4hpc.eu
   - name: DLS - Production
     url: https://datalogistics.eflows4hpc.eu
-  - name: Model Repository
-    url: https://modelrepository.eflows4hpc.eu
   - name: Image Creation Service
     url: https://eflows4hpc.bsc.es/image_creation/login
   - name: Datacatalogue - Testing
